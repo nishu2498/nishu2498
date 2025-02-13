@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm Nishant!
 
-####    Bring O(n!) to O(1) 😁
-
-- 📚 Currently Computer Engineering Student...
-- 🌱 Working(mastering) Full Stack Development...
-- ❤️ Python Scripting and data science enthusiast
+- 📚 Currently Software Engineer 2 at Cohesity
+- 🌱 Working(mastering) Full Stack Development and Machine Learning...
+- ❤️ Passionate about reading related to finance, security and designing
 - 🙋‍♂️ My <a href = "https://drive.google.com/file/d/1hAG6EOYwir94_tih-_fU-y7FINHlyIt2/view?usp=sharing">Resume.</a> 
-- 💬 Cricket,Table,Books,Music is my life!!
+- 💬 Badminton (keeps me agile) , Table (keeps me focused) , Music (keeps me happy) !!!
 - ⚡ Trekking, Riding bikes
 <hr>
 
